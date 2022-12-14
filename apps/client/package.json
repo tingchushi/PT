@@ -34,7 +34,7 @@
     "react-toast-notifications": "^2.5.1",
     "react-toastify": "^9.1.1",
     "reactjs-popup": "^2.0.5",
-    "recharts": "^2.2.0"
+    "recharts": "^0.22.5"
   },
   "devDependencies": {
     "@types/react": "^18.0.24",
